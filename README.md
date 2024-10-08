@@ -50,6 +50,7 @@ python octoffers djinni apply "Hello, I'm looking for job" # <-- This argument s
 DJINNI_SESSION_ID=".2193dhsa9h419d1"
 MOCK_EMAILADDR="jhondoe@gmail.com"
 INDEED_REGION="ca"
+POSTGRES_SQL="POSTGRES_SQL = "postgresql://postgres:postgres@localhost:5432/db_name"
 ```
 
 ### Questions & Anwsers
